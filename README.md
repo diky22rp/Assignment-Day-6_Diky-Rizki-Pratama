@@ -15,12 +15,8 @@ Masuk ke folder project
 
 bash
 Copy code
-cd user-management-dart
-Jalankan aplikasi
-
-bash
-Copy code
-dart main.dart
+cd Assignment-Day-6_Diky-Rizki-Pratama
+Jalankan aplikasi : dart main.dart
 Setelah dijalankan, akan muncul menu aplikasi User Management seperti gambar di bawah ini:
 
 <img width="442" height="197" alt="image" src="https://github.com/user-attachments/assets/a8f918a8-3153-414c-aad4-38f195533836" />
