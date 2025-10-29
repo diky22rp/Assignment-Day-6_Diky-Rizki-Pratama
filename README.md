@@ -11,12 +11,11 @@ Aplikasi ini berjalan di terminal (console) dan memiliki beberapa fitur untuk me
 1. **Clone repository ini**
    ```bash
    git clone https://github.com/diky22rp/Assignment-Day-6_Diky-Rizki-Pratama.git
-Masuk ke folder project
 
-bash
-Copy code
-cd Assignment-Day-6_Diky-Rizki-Pratama
+Masuk ke folder project : cd Assignment-Day-6_Diky-Rizki-Pratama
+
 Jalankan aplikasi : dart main.dart
+
 Setelah dijalankan, akan muncul menu aplikasi User Management seperti gambar di bawah ini:
 
 <img width="442" height="197" alt="image" src="https://github.com/user-attachments/assets/a8f918a8-3153-414c-aad4-38f195533836" />
