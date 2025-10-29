@@ -10,7 +10,7 @@ Aplikasi ini berjalan di terminal (console) dan memiliki beberapa fitur untuk me
 
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/username/user-management-dart.git
+   git clone https://github.com/diky22rp/Assignment-Day-6_Diky-Rizki-Pratama.git
 Masuk ke folder project
 
 bash
