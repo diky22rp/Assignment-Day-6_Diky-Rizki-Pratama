@@ -12,9 +12,9 @@ Aplikasi ini berjalan di terminal (console) dan memiliki beberapa fitur untuk me
    ```bash
    git clone https://github.com/diky22rp/Assignment-Day-6_Diky-Rizki-Pratama.git
 
-Masuk ke folder project : cd Assignment-Day-6_Diky-Rizki-Pratama
+2. Masuk ke folder project : cd Assignment-Day-6_Diky-Rizki-Pratama
 
-Jalankan aplikasi : dart main.dart
+3. Jalankan aplikasi : dart main.dart
 
 Setelah dijalankan, akan muncul menu aplikasi User Management seperti gambar di bawah ini:
 
